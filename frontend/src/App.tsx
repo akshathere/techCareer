@@ -1,10 +1,12 @@
-
 import './App.css'
+import Openings from './components/opening'
 
 function App() {
-  return <div className='font-bold bg-red-400'>
-    hello
+
+  return (<div>
+    <Openings></Openings>
   </div>
+  )
 }
 
 export default App
