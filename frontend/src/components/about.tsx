@@ -1,5 +1,5 @@
 export default function About(){
-    return <div className="pt-5 pl-20 border-t border-gray border-t-2">
+    return <div className="pt-5 pl-20 md:border-t border-gray border-t-2">
         <div>
             <p className="text-gray-3 pb-2">About the job</p>
             <p>1. Handle the UI/UX research intern</p>

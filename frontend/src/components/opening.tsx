@@ -1,7 +1,7 @@
 import coins from "../assets/coins.svg"
 export default function Openings(){
-    return <div className="ml-20 pb-6">
-        <div className="flex my-3 mb-6  mx-6 ml-0">
+    return <div className="ml-20 pb-6 ">
+        <div className="flex-col md:flex  my-3 mb-6  mx-6 ml-0">
             <div className="text-3xl font-bold text-blacki">
                 Senior Product Designer
             </div>

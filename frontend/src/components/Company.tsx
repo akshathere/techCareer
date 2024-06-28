@@ -1,6 +1,6 @@
 import atlas from "../assets/Atlassian.svg"
 export default function Company(){
-    return <div className="pl-20 mt-6 pt-8 border-t border-gray border-t-2">
+    return <div className="pl-20 mt-6 pt-8 md:border-t border-gray border-t-2">
         <div className="flex pb-6">
             <img src={atlas} className="w-10 mr-4" />
             <div className="text-xl font-b pt-1">

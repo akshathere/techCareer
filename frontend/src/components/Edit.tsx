@@ -2,7 +2,7 @@ import applicants from "../assets/Applicants.svg"
 import matches from "../assets/Matches.svg"
 import message from "../assets/message.svg"
 export default function Edit(){
-    return <div className="ml-6 mt-8 ">
+    return <div className="ml-6 mt-8">
         <div>
             <button className="rounded-lg border border-red-500 text-red-500 bg-pinky-2 px-8 py-3 mr-4">
                 <div className="flex">
